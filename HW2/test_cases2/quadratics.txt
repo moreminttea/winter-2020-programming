@@ -1,0 +1,3 @@
+Enter coefficients for the quadratic equation:
+a: b: c: The first solution is 3
+The second solution is 2
