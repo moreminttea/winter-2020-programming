@@ -1,1 +1,2 @@
-# winter-2020-programming
+# Programming (Winter 2020)
+- Languages: C
